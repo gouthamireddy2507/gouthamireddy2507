@@ -21,5 +21,3 @@
   <img height="25" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img height="25" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
 </p>
-### GitHub Stats
-![Gouthami's GitHub stats] (https://github-readme-stats.vercel.app/api?username=gouthamireddy2507&show_icons=true&theme=radical)
